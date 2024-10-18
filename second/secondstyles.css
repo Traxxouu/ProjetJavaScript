@@ -1,0 +1,9 @@
+.page-gestion a{
+    text-decoration: none;
+    color: blue;
+}
+
+.page-gestion button{
+    position: relative;
+    left: 80%;
+}
